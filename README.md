@@ -1,4 +1,5 @@
 # Ngee Ann Polytechnic PROG2_Project
+This repo contain mine and sarah CSF02 PROG2.
 
 *Copyright (c) 2019 Alan Tan*
 
@@ -6,8 +7,8 @@
 
 ---
 ![GitHub](https://img.shields.io/github/license/dodieboy/PROG2_Project?style=flat-square)
+## STATUS: Completed
 
-This repo contain mine and sarah CSF02 PROG2.
 
 ## Plagarism
 
