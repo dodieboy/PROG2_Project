@@ -1,5 +1,5 @@
 # Ngee Ann Polytechnic PROG2_Project
-This repo contain mine and sarah CSF02 PROG2.
+This repo contain mine and sarah CSF02 PROG2 work.
 
 *Copyright (c) 2019 Alan Tan*
 
